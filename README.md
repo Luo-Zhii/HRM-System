@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -133,3 +134,15 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+<div>git clone https://github.com/Luo-Zhii/HRM-System.git</div>
+<br/>
+
+<div>cd HRM_System</div>
+<br/>
+
+<div>npm i</div> 
+<br/>
+
+<div>npm run dev</div> 
+>>>>>>> b3c2920361e08dbb2c7818080be97bd9de3cd52a
